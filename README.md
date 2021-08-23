@@ -6,8 +6,7 @@
 
 The Book search engine is an application is using the MERN stack. The front end is built with React, MongoDB, and Node/Express. It allows users to sign up for the site and allow them to save their book searches using the backend. It makes use of the Google Books API, and a search engine built with GraphQL and Apollo. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project was bootstrapped with Create React App
 ## Table of Contents
 
 * [Deployed Application](#deployed-application)
@@ -20,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application 
 
-[Book Search Engine]("")<br />
+[Book Search Engine](https://blooming-brook-03467.herokuapp.com/)<br />
 
 
 ## Usage
